@@ -1,0 +1,3 @@
+[submodule "handson/handson-openobserve"]
+	path = handson/handson-openobserve
+	url = git@github.com:asakaicode/handson-openobserve.git
