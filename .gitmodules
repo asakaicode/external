@@ -1,3 +1,6 @@
 [submodule "handson/handson-openobserve"]
 	path = handson/handson-openobserve
 	url = git@github.com:asakaicode/handson-openobserve.git
+[submodule "handson/handson-loki"]
+	path = handson/handson-loki
+	url = git@github.com:asakaicode/handson-loki.git
