@@ -4,3 +4,6 @@
 [submodule "handson/handson-loki"]
 	path = handson/handson-loki
 	url = git@github.com:asakaicode/handson-loki.git
+[submodule "handson/map-playground"]
+	path = handson/map-playground
+	url = git@github.com:asakaicode/map-playground.git
