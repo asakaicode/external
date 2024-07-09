@@ -7,3 +7,6 @@
 [submodule "handson/map-playground"]
 	path = handson/map-playground
 	url = git@github.com:asakaicode/map-playground.git
+[submodule "handson/handson-redis-pubsub"]
+	path = handson/handson-redis-pubsub
+	url = git@github.com:asakaicode/handson-redis-pubsub.git
